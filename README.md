@@ -317,7 +317,7 @@ Stay connected with the latest updates and community by joining our official Wha
 ### Thank You Dear
 
 > DEVELOPER OF TOXIC-XMD
-- [popkid](https://github.com/Popkiddevs)
+- [mustaffa](https://github.com/Mustaffamkm)
 - Creater and Owner Of TOXIC-XMD
 
 > TOXIC-XMD
