@@ -28,7 +28,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 --- 
 
-<a><img src='https://i.ibb.co/bgXPHSrS/IMG-20250205-WA0077.jpg'/></a>
+<a><img src='https://i.ibb.co/JR2WL1tJ/temp-image.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
