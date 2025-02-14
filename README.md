@@ -291,7 +291,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4a985InlqSS0l3ro3c#N7Mti4kjHnOwhF8PLajt4KvJt_dNPPAeNjgLaszm3po)
+[![WhatsApp Channel](https://i.ibb.co/JR2WL1tJ/temp-image.jpg/)=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T)
 
 ***
 
