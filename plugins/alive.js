@@ -14,14 +14,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         // Generate system status message
         const status = `
-╭──〔𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃〕───·๏
+╭──〔TOXIC-𝐗𝐌𝐃〕───·๏
 ┃🛸┃• *⏳ Uptime*:  ${runtime(process.uptime())} 
 ┃🛸┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃🛸┃• *⚙️ HostName*: ${os.hostname()}
-┃🛸┃• *👨‍💻 Creator*: mustaffa
-┃🛸┃• *🧬 Version*: 1.0.0
+┃🛸┃• *👨‍💻 Creator*: MUSTAFFA MK
+┃🛸┃• *🧬 Version*: 3.0.0
 ╰──────────────┈⊷
-> © 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃`;
+> © TOXIC-𝐗𝐌𝐃`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363395768630577@newsletter',
-                    newsletterName: '𝐌𝐮𝐬𝐭𝐚𝐟𝐟𝐚 𝐗𝐦𝐝 🥳',
+                    newsletterName: 'TOXIC 𝐗𝐦𝐝 🥳',
                     serverMessageId: 143
                 }
             }
