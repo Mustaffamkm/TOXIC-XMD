@@ -16,7 +16,7 @@ cmd({
   reply: _0x11eb9d
 }) => {
   if (!_0x216653[0x0]) {
-    return _0x11eb9d("Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/kinghanstz/VORTEX-XMD");
+    return _0x11eb9d("Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/Mustaffamkm/TOXIC-XMD");
   }
   if (!/^(https:\/\/)?github\.com\/.+/.test(_0x216653[0x0])) {
     return _0x11eb9d("⚠️ Invalid GitHub link.");
@@ -36,7 +36,7 @@ cmd({
     }
     let _0x49a379 = _0xe6be44.headers.get("content-disposition");
     let _0x481150 = _0x49a379 ? _0x49a379.match(/filename=(.*)/)[0x1] : _0x16a926 + ".zip";
-    _0x11eb9d("*📥𝐌𝐮𝐬𝐭𝐚𝐟𝐟𝐚 𝐱𝐦𝐝 DOWNLOADING REPOSITORY...*\n\n*REPOSITORY:* " + _0x5194b2 + '/' + _0x16a926 + "\n*FILENAME:* " + _0x481150 + "\n\n> *© 𝐌𝐮𝐬𝐭𝐚𝐟𝐟𝐚 𝐗𝐦𝐝*");
+    _0x11eb9d("*📥Toxic 𝐱𝐦𝐝 DOWNLOADING REPOSITORY...*\n\n*REPOSITORY:* " + _0x5194b2 + '/' + _0x16a926 + "\n*FILENAME:* " + _0x481150 + "\n\n> *© 𝐌𝐮𝐬𝐭𝐚𝐟𝐟𝐚 𝐗𝐦𝐝*");
     await _0x359a4d.sendMessage(_0x421a7d, {
       'document': {
         'url': _0x936878
