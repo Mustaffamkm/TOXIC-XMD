@@ -31,7 +31,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/5hdckf.jpeg' }, // Image URL from your request
             caption: `
-╭━〔 *𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃* 〕━┈⊷
+╭━〔 *TOXIC-𝐗𝐌𝐃* 〕━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -39,7 +39,7 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 1.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃`, // Display the owner's details
+> ©TOXIC-𝐗𝐌𝐃`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
