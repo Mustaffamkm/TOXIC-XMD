@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">💫 Vᴏʀᴛᴇx xᴍᴅ 💫</h1>
+  <h1 align="center">🤑 Tᴏxɪᴄ xᴍᴅ 🤑</h1>
 </p>
 
   <p align="center">
