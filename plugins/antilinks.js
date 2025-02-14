@@ -27,7 +27,7 @@ cmd({
         'quoted': _0x2bbd0c
       });
       await _0x4be391.sendMessage(_0x529db2, {
-        'text': "🚫 ⚠️💫 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃 💫 BAD WORDS NOT ALLOWED⚠️ 🚫"
+        'text': "🚫 ⚠️💫 TOXIC-𝐗𝐌𝐃 💫 BAD WORDS NOT ALLOWED⚠️ 🚫"
       }, {
         'quoted': _0x2bbd0c
       });
@@ -61,7 +61,7 @@ cmd({
         'quoted': _0x4807fa
       });
       await _0x488fe3.sendMessage(_0x49635a, {
-        'text': "⚠️ 💫 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃 💫 Links are not allowed in this group.\n@" + _0x36e9e2.split('@')[0x0] + " has been removed. 🚫",
+        'text': "⚠️ 💫 TOXIC-𝐗𝐌𝐃 powered by mustaffamk💫 Links are not allowed in this group.\n@" + _0x36e9e2.split('@')[0x0] + " has been removed. 🚫",
         'mentions': [_0x36e9e2]
       }, {
         'quoted': _0x4807fa
