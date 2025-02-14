@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💫 TOXIC-𝐗𝐌𝐃 💫*`;
+> *@ 💫 TOXIC-𝐗MD 💫*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
