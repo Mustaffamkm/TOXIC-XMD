@@ -38,7 +38,7 @@ cmd({
                 from,
                 {
                     image: { url: image.src },
-                    caption: `*🔎 Results for:* ${query}\n\n> *Powered by Mustaffa Xmd ✨*`
+                    caption: `*🔎 Results for:* ${query}\n\n> *Powered by MUSTAFFAMK ✨*`
                 },
                 { quoted: mek }
             );
