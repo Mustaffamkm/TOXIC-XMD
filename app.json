@@ -1,8 +1,8 @@
 {
-  "name": "Mustaffa-xmd",
+  "name": "Toxic-xmd",
   "description": "Made By Mustaffa WhatsApp bot made by Mustaffa",
-  "keywords": ["Mustaffa-xmd"],
-  "repository": "https://github.com/Mustaffamkm/MUSTAFFA-XMD",
+  "keywords": ["Toxic-xmd"],
+  "repository": "https://github.com/Mustaffamkm/TOXIC-XMD",
   "success_url": "/",
 
     "stack": "container",
@@ -22,7 +22,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> MUSTAFFA-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> TOXIC-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -79,26 +79,26 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*👀 Seen by mustaffa xmd Bot 🚀*"
+      "value": "*👀 Seen by toxic xmd Bot 🚀*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mustaffa-xmd"
+      "value": "Toxic-xmd"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255756530143"
+      "value": "254758755663"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃"
+      "value": "TOXIC-𝐗𝐌𝐃"
 
       }, 
 
@@ -118,7 +118,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃*"
+      "value": "*© TOXIC-𝐗𝐌𝐃*"
     },
 
       "DELETE_LINKS": {
