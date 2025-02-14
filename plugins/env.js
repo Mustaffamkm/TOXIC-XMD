@@ -20,7 +20,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
         let envSettings = `
-╭〔 *【ᗰᑌՏTᗩᖴᖴᗩ】💥᙭ᗰᗪ* 〕⊷
+╭〔 *【TOXIC】💥᙭ᗰᗪ* 〕⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://imgur.com/a/brpeyfS' }, // Image URL
+                image: { url: 'https://i.ibb.co/JR2WL1tJ/temp-image.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -67,7 +67,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Send an audio file
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/devhanstz/VORTEX-XMD-DATA/raw/refs/heads/main/KingHans/Menu.mp3' }, // Audio URL
+            audio: { url: 'https://github.com/Mustaffamkm/TOXIC-XMD-DATA/raw/refs/heads/main/KingHans/Menu.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
