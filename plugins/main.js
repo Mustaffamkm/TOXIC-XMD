@@ -9,13 +9,13 @@ cmd({
     alias: "allmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "⚡",
+    react: "🔥",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `
-╭━〔 *𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐗𝐌𝐃* 〕━┈⊷
+╭━〔 *TOXIC-XMD* 〕━┈⊷
 ┃⊡╭──────────────
 ┃⊡│ Owner : *${config.OWNER_NAME}*
 ┃⊡│ Baileys : *Multi Device*
@@ -23,7 +23,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃⊡│ Platform : *Heroku*
 ┃⊡│ Mode : *[${config.MODE}]*
 ┃⊡│ Prifix : *[${config.PREFIX}]*
-┃⊡│ Version : *1.0.0*
+┃⊡│ Version : *3.0.0*
 ┃⊡╰──────────────
 ╰━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Download Menu* 〕┈⊷
@@ -235,7 +235,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/bgXPHSrS/IMG-20250205-WA0077.jpg` },
+                image: { url: `https://i.ibb.co/JR2WL1tJ/temp-image.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -243,7 +243,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363395768630577@newsletter',
-                        newsletterName: '💫 𝐌𝐮𝐬𝐭𝐚𝐟𝐟𝐚 xᴍᴅ 💫',
+                        newsletterName: '💫 TOXIC xᴍᴅ 💫',
                         serverMessageId: 143
                     }
                 }
