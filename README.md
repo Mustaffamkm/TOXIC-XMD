@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🤑 Tᴏxɪᴄ xᴍᴅ 🤑</h1>
+  <h1 align="center">🌠 Tᴏxɪᴄ🔥xᴍᴅ 🌠</h1>
 </p>
 
   <p align="center">
@@ -7,7 +7,7 @@
 <a href="https://github.com/Mustaffamkm/TOXIC-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mustaffamkm/TOXIC-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Mustaffamkm/TOXIC-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mustaffamkm/TOXIC-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Mustaffamkm/TOXIC-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Mustaffamkm/TOXIC-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/Mustaffamkm/TOXOC-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Mustaffamkm/TOXIC-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -100,7 +100,7 @@ You will need a session ID to run the TOXIC-XMD. Click the button below to obtai
 <p style="text-align: center; font-size: 1.2em;">
 
 
-***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://vortex-hanstz.vercel.app)***
+***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://toxic-mustaffa.vercel.app)***
 
 ----------
 
@@ -191,7 +191,7 @@ That's all bot connected
 
 <h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*💫 Deploy VORTEX md On Hugging Face For Free !*
+*💫 Deploy TOXIC MD On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -203,7 +203,7 @@ That's all bot connected
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/Mrhanstz/VORTEX-XMD
+1. Go to https://huggingface.co/spaces/Mrmustaffa/TOXIC-XMD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -216,9 +216,9 @@ That's all bot connected
 
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
-> CREDITS POPKID🎐
+> CREDITS MUSTAFFA🎐
 
-*POWERED By POPKID PROJECTS</h6>
+*POWERED By MUSTAFFA PROJECTS</h6>
 
 </details>
 
@@ -291,7 +291,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://i.ibb.co/JR2WL1tJ/temp-image.jpg/)=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T)
+[![WhatsApp Channel](https://i.ibb.co/JR2WL1tJ/temp-image.jpg/)=for-the-badge&logo=whatsapp)https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T]
 
 ***
 
@@ -337,7 +337,7 @@ Stay connected with the latest updates and community by joining our official Wha
 <br>
 
 ```
-✇Thank you popkid for making the base✇
+✇Thank you POPKID for making the base✇
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
