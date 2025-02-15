@@ -12,7 +12,7 @@
 <p align='center'>
 </p>
 
-> **`Current Bot Version ➜ 3.0.1`**
+> **`Current Bot Version ➜ 3.0.0`**
 ---
 
 ```
@@ -35,12 +35,12 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ***
 
 <p align="center">
-  <a href="https://github.com/Mustaffamkm"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Mustaffa0-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Mustaffamkm"><img title="Developer" src="https://img.shields.io/badge/Author-MUSTAFFS MK-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4a985InlqSS0l3ro3c#N7Mti4kjHnOwhF8PLajt4KvJt_dNPPAeNjgLaszm3po)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{TOXIC-XMD}/count.svg" alt="Mustaffamkm :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Mustaffamkm}/count.svg" /></p>
