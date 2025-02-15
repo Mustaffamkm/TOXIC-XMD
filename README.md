@@ -100,7 +100,7 @@ You will need a session ID to run the TOXIC-XMD. Click the button below to obtai
 <p style="text-align: center; font-size: 1.2em;">
 
 
-***[![Deploy on heroku](https://dashboard.heroku.com/new?template=https://github.com/Mustaffamkm/TOXIC-XMD)***
+***(https://dashboard.heroku.com/new?template=https://github.com/Mustaffamkm/TOXIC-XMD)***
 
 ----------
 
