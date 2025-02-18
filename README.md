@@ -291,7 +291,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://i.ibb.co/JR2WL1tJ/temp-image.jpg/)=for-the-badge&logo=whatsapp)https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T]
+[![WhatsApp Channel](https://i.ibb.co/JR2WL1tJ/temp-image.jpg/)=for-the-badge&logo=whatsapp)https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r]
 
 ***
 
