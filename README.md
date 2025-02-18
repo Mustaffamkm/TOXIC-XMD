@@ -40,7 +40,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{TOXIC-XMD}/count.svg" alt="Mustaffamkm :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Mustaffamkm}/count.svg" /></p>
