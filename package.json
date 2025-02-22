@@ -1,12 +1,12 @@
 {
   "name": "TOXIC-XMD",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "A powerful and best WhatsApp Bot Created By MUSTAFFAMK TECH inc",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name mustaffa-xmd",
-    "stop": "pm2 stop toxic-xmd",
-    "restart": "pm2 restart toxic-xmd"
+    "stop": "pm2 stop mustaffa-xmd",
+    "restart": "pm2 restart mustaffa-xmd"
   },
    "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
